@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObstacleAssault",
+			"Path": "E:\\Content\\Unreal Projects\\UE 5 Cpp Udemy\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObstacleAssaultEditor",
+			"Path": "E:\\Content\\Unreal Projects\\UE 5 Cpp Udemy\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

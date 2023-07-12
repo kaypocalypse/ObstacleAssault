@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "ObstacleAssaultEditor Editor Win64 Development (ObstacleAssault)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\Content\\Unreal Projects\\UE 5 Cpp Udemy\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\Content\\Unreal Projects\\UE 5 Cpp Udemy\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
