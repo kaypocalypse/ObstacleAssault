@@ -16,7 +16,8 @@ void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
 
-	APlusBFloat = InputFloatA + InputFloatB;
+	MyVector.X = MyX;
+	
 
 	
 }
